@@ -24,7 +24,7 @@ export const DataProvider = ({ children }) => {
     },
 
     academicsPage: {
-      title: 'Overview',
+      title: 'Academics  Overview',
       buttonText: 'Know More',
       content:
         "Welcome to our Academics page, where we take pride in providing a comprehensive and stimulating educational experience for your child. Our kindergarten school's academic program is thoughtfully designed to foster a love for learning while building a strong foundation of essential skills and knowledge. From language arts and mathematics to science and social studies, our curriculum is carefully crafted to spark curiosity and encourage active exploration.",
@@ -37,7 +37,7 @@ export const DataProvider = ({ children }) => {
     },
     contactPage: {
       title: 'Feel Free To Connect With Us',
-      buttonText:'Contact Us',
+      buttonText: 'Contact Us',
       content:
         'We value open communication and are eager to assist you with any inquiries. Feel free to reach out to us through any of the following contact methods',
     },
